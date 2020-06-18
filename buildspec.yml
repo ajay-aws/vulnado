@@ -13,4 +13,4 @@ phases:
   post_build:
     commands:
       - echo Build completed on `date`
-      - mvn sonar:sonar -Dsonar.login=c4fa0294ddf657c183995564fcca0deb45398507 -Dsonar.host.url=http://18.220.196.198:9000
+      - mvn sonar:sonar -Dsonar.login=31a090157f3d13c58e690a26eeaffbad29bcb194 -Dsonar.host.url=http://18.220.196.198:9000
